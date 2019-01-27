@@ -27,8 +27,7 @@ ECGデータをcsvに変換することができます。
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+##すごいひとたち紹介
+https://www.ahajournals.org/doi/full/10.1161/01.cir.101.23.e215
